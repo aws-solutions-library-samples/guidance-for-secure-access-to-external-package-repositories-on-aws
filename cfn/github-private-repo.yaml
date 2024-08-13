@@ -1,5 +1,5 @@
 AWSTemplateFormatVersion: "2010-09-09"
-Description: "Guidance for Secure Access to External Package Repositories on AWS (GitHub Version)"
+Description: "Guidance for Secure Access to External Package Repositories on AWS (GitHub Version) (SO9464)"
 Metadata:
   LICENSE: >-
     Copyright Amazon.com, Inc. or its affiliates. All Rights Reserved.
